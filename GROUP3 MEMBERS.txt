@@ -1,0 +1,16 @@
+Group 3
+Project
+Phone Repair Management System (VB.NET, Windows Forms, SQLite)
+Members
+#	Full Name			Index Number
+1	Nana Yaw Owusu			10324780
+2	Gawornu Kingsley Esianyo	10322921
+3	Ofori Kelvin Nyarko	 	10330825
+4	Vera Kwofie			10316809
+5	Asanab Godwin Moro		10324372
+6	Kwofie Raymond Azane		10317776
+7	Franklin Xolali Yawo Azumah	10323425
+8	Bright Aneriba			10330420
+9	Biney Bill			10318567
+Demo video
+Link: https://youtu.be/XGFFop1IoXs?si=zW9u5ljkYBWYXoEF
